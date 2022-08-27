@@ -14,5 +14,8 @@ Repositório para scripts criados durante o bootcamp Linux Experience da Digital
 - Criação de usuários
 - Criação de diretórios
 - Definição de permissões
+- Atualizando o servidor
+- Instalando programas
+- Baixando e copiando arquivos
 
 
